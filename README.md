@@ -17,9 +17,9 @@
 ### Workspace Specs:
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="SO" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center" alt="RTX3050" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
     <img align="center" alt="Core i7-13650HX" src="https://img.shields.io/badge/Intel%20Core%20i7-13650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+    <img align="center" alt="RTX3050" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img align="center" alt="SO" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
 </div><br/>
